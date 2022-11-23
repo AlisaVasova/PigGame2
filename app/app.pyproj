@@ -28,6 +28,12 @@
     <Compile Include="Tests\test_game.py">
       <SubType>Code</SubType>
     </Compile>
+    <Compile Include="Tests\__init__.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="__init__.py">
+      <SubType>Code</SubType>
+    </Compile>
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Tests\" />
